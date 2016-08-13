@@ -1,0 +1,78 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  font-family: helvetica;
+  font-size: 14px;
+  background:;
+
+}
+
+header {
+  padding: 0px;
+  display: block;
+  width: 100%;
+  font font-family: helvetica;
+  font-size: 16px;
+
+}
+
+nav {
+  line-height:1;
+  background-color:;
+  width:300px;
+  display: inline-block;
+  vertical-align: top;
+  font-family: helvetica;
+  font-size: 16px;
+
+}
+
+nav ul {
+  list-style-type: none;
+  list
+}
+
+a {
+    color: ;
+}
+
+ul li {
+  float: left;
+  padding:5px;
+}
+
+ul img {
+  width: 250px;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size:;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
